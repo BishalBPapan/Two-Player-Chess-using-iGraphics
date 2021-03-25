@@ -19,3 +19,17 @@ If any pawn reaches the last row of the opponent side, then the pawn gets the po
 ![Screenshot (241)](https://user-images.githubusercontent.com/37974385/112415048-57cd4280-8d4d-11eb-83ce-314884aa0c1c.png)
 ![Screenshot (242)](https://user-images.githubusercontent.com/37974385/112415042-556ae880-8d4d-11eb-8f95-26aa7c42b645.png)
 ![Screenshot (243)](https://user-images.githubusercontent.com/37974385/112415089-661b5e80-8d4d-11eb-84ab-ee8a45646345.png)
+
+There are some additional features in this game. Clicking on the 'Instructions' option, a gamer can see the icon used for each chess piece type and the additional rules for this game.
+
+![Screenshot (244)](https://user-images.githubusercontent.com/37974385/112415742-931c4100-8d4e-11eb-95bd-bcfc14bd4d45.png)
+![Screenshot (245)](https://user-images.githubusercontent.com/37974385/112415749-957e9b00-8d4e-11eb-8f6d-44627f95ff52.png)
+
+In the 'Credits' page, there are the names of the developers who contributed in this project
+
+![Screenshot (246)](https://user-images.githubusercontent.com/37974385/112415817-c19a1c00-8d4e-11eb-9971-ea824f63aae2.png)
+
+If any gamer clicks on the 'Resume Game' option, he/she can resume the game from exactly the same stage where he/she had closed.
+
+![Screenshot (247)](https://user-images.githubusercontent.com/37974385/112415925-eee6ca00-8d4e-11eb-839c-dd1785dcdb7c.png)
+
